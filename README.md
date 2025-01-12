@@ -3,7 +3,7 @@
 
 </h3>
 **************************************************************************************************** <br>
-Currently working as Research Associate at Unviersity of South Carolina, USA; Under the mentorship of <br>
+Currently working as Research Associate at University of South Carolina, USA; Under the mentorship of <br>
 Prominent Scientist & Professor Dr. Amit Sheth(https://scholar.google.com/citations?user=2T3H4ekAAAAJ&hl=en)
 ********************************************************************************************** <br>
 Hold a permanent tenured position in India as Goverment Official(Civil Services) with the Designation: <br> 
