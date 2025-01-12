@@ -1,5 +1,8 @@
-<h1>Hello, I am Sweety.</h1>
-<h2> Welcome to my Github</h2>
+<h2>Hello, I am Sweety.</h2>
+<h2> Civil Service Official in INDIA deeply immersed in the transformative realm of Artificial Intelligence. Currently pursuing research at University of South Carolina, USA, my work bridges the gap between cutting-edge neurosymbolic AI and real-world impact. My focus lies in crafting intelligent systems that seamlessly integrate declarative and procedural knowledge to enable robust learning, reasoning, and decision-making. These efforts are particularly directed toward applications that advance societal well-being. I thrive at the intersection of machine learning, cognitive modeling, and their applications in addressing pressing global challenges.
+
+Driven by a passion for pushing the frontiers of AI, I invite you to connect—whether to collaborate on impactful research, explore the exciting interplay of AI and human insight, or simply share thoughts on the future of intelligent systems. Together, let’s shape the next era of innovation!</h2>
+****************************************************************************************************
 Currently working as Research Associate at Unviersity of South Carolina, USA; Under the mentorship of <br>
 Prominent Scientist & Professor Dr. Amit Sheth(https://scholar.google.com/citations?user=2T3H4ekAAAAJ&hl=en)
 ********************************************************************************************** <br>
